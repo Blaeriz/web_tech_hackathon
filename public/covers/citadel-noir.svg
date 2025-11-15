@@ -1,0 +1,13 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="noir" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050505" />
+      <stop offset="100%" stop-color="#26242b" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#noir)" />
+  <rect x="120" y="220" width="560" height="760" fill="#0d0d0f" stroke="#413b52" />
+  <circle cx="400" cy="420" r="90" fill="#c0a3ff" opacity="0.15" />
+  <text x="50%" y="60%" font-size="80" font-family="'Bebas Neue', sans-serif" fill="#fdf0ff" text-anchor="middle" letter-spacing="14">CITADEL</text>
+  <text x="50%" y="69%" font-size="70" font-family="'Bebas Neue', sans-serif" fill="#9a7cff" text-anchor="middle" letter-spacing="10">NOIR</text>
+</svg>

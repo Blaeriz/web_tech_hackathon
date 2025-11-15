@@ -1,0 +1,29 @@
+{
+  "name": "comicverse-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dynamic multi-page comic storefront powered by HTML, CSS, and vanilla JavaScript.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier \"**/*.{html,css,js,json}\" --write",
+    "lint": "prettier \"**/*.{html,css,js,json}\" --check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blaeriz/web_tech_hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blaeriz/web_tech_hackathon/issues"
+  },
+  "homepage": "https://github.com/Blaeriz/web_tech_hackathon#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "vite": "^7.2.2"
+  }
+}

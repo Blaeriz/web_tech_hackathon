@@ -1,0 +1,13 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#01040c" />
+      <stop offset="100%" stop-color="#3c0f3f" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#grad)" />
+  <circle cx="400" cy="350" r="200" fill="rgba(50, 193, 255, 0.35)" />
+  <circle cx="400" cy="360" r="140" fill="rgba(255, 51, 102, 0.45)" />
+  <text x="50%" y="65%" font-size="80" font-family="'Bebas Neue', 'Anton', sans-serif" fill="#f5f7ff" text-anchor="middle" letter-spacing="8">VOID RIFT</text>
+  <text x="50%" y="72%" font-size="36" font-family="'Space Grotesk', sans-serif" fill="#8bc9ff" text-anchor="middle" letter-spacing="6">NEXUS RISING</text>
+</svg>

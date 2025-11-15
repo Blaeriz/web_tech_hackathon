@@ -1,0 +1,12 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="verdant" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b3d2e" />
+      <stop offset="100%" stop-color="#49a078" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#verdant)" />
+  <path d="M0 900 C200 700 600 1100 800 900 L800 1200 L0 1200 Z" fill="rgba(255,255,255,0.12)" />
+  <text x="50%" y="65%" font-size="74" font-family="'Bebas Neue', sans-serif" fill="#e5ffe7" text-anchor="middle" letter-spacing="8">VERDANT</text>
+  <text x="50%" y="74%" font-size="62" font-family="'Bebas Neue', sans-serif" fill="#bfffd0" text-anchor="middle" letter-spacing="14">REQUIEM</text>
+</svg>

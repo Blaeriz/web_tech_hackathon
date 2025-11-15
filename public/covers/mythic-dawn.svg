@@ -1,0 +1,13 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mythic" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#281334" />
+      <stop offset="100%" stop-color="#f25f3a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#mythic)" />
+  <path d="M0 800 L800 400 L800 1200 Z" fill="rgba(255,255,255,0.08)" />
+  <text x="50%" y="65%" font-size="76" font-family="'Bebas Neue', sans-serif" fill="#fff4e6" text-anchor="middle" letter-spacing="8">MYTHIC</text>
+  <text x="50%" y="74%" font-size="58" font-family="'Bebas Neue', sans-serif" fill="#ffcf9c" text-anchor="middle" letter-spacing="12">DAWN</text>
+  <text x="50%" y="82%" font-size="34" font-family="'Space Grotesk', sans-serif" fill="#ffe3c7" text-anchor="middle">PROTOCOL</text>
+</svg>

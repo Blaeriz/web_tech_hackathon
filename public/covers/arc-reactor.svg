@@ -1,0 +1,17 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="arc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14213d" />
+      <stop offset="100%" stop-color="#fca311" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#arc)" />
+  <g fill="none" stroke="#ffffff" stroke-width="6" opacity="0.5">
+    <circle cx="400" cy="600" r="250" />
+    <circle cx="400" cy="600" r="180" />
+    <circle cx="400" cy="600" r="110" />
+  </g>
+  <text x="50%" y="68%" font-size="75" font-family="'Bebas Neue', sans-serif" fill="#ffffff" text-anchor="middle" letter-spacing="10">ARC</text>
+  <text x="50%" y="77%" font-size="65" font-family="'Bebas Neue', sans-serif" fill="#ffe7b8" text-anchor="middle" letter-spacing="14">REACTOR</text>
+  <text x="50%" y="85%" font-size="32" font-family="'Space Grotesk', sans-serif" fill="#ffffff" text-anchor="middle">KIDS</text>
+</svg>
